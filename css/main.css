@@ -1772,6 +1772,16 @@ textarea.form-control {
   .blog {
     padding: 40px 10px;
   }
+  .blog ul li:first-child .blog_box {
+    margin-top: 0;
+  }
+  .blog .blog_box {
+    max-width: 370px;
+    margin: 20px auto;
+  }
+  .blog_img img {
+    width: 100%;
+  }
 }
 .blog_h .title h1 {
   color: #000;
@@ -2622,11 +2632,27 @@ a.slidebtn i {
 .blog_h .content_box h3 a:hover {
   color: #f00;
 }
+@media screen and (max-width: 1200px) {
+  .pop_classes .owl-nav {
+    display: none;
+  }
+}
 @media (max-width: 990px) {
   .choice p {
     padding: 0;
   }
 }
+@media (max-width: 767px) {
+  .title h1 {
+    font-size: 36px;
+  }
+}
+@media (max-width: 480px) {
+  .title h1 {
+    font-size: 26px;
+  }
+}
+
 /* End blog home  */
 /* Start Video  */
 .video_container {
