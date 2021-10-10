@@ -2441,7 +2441,7 @@ a.slidebtn i {
 }
 /* Start Advantages  */
 .advantages {
-  z-index: 1000;
+  z-index: 999;
   margin-top: -70px;
   position: relative;
 }
