@@ -42,6 +42,9 @@ a {
   transition: all 0.3s ease;
   color: #ffb607;
 }
+.unorderList {
+  list-style: none;
+}
 /* Start Header  */
 .header .logo {
   margin-top: 6px;
