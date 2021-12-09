@@ -1371,31 +1371,31 @@ textarea.form-control {
   display: inline-block;
 }
 .yellowa {
-  border-color: #ffb607;
-  color: #ffb607;
+  border-color: #ffb607 !important;
+  color: #ffb607 !important;
 }
 .yellowa:hover {
-  background-color: #ffb607;
-  border-color: #ffb607;
-  color: white;
+  background-color: #ffb607 !important;
+  border-color: #ffb607 !important;
+  color: white !important;
 }
 .bluea {
-  border-color: #1cc3f5;
-  color: #1cc3f5;
+  border-color: #1cc3f5 !important;
+  color: #1cc3f5 !important;
 }
 .bluea:hover {
-  background-color: #1cc3f5;
-  border-color: #1cc3f5;
-  color: white;
+  background-color: #1cc3f5 !important;
+  border-color: #1cc3f5 !important;
+  color: white !important;
 }
 .reda {
-  border-color: #e20c0c;
-  color: #e20c0c;
+  border-color: #e20c0c !important;
+  color: #e20c0c !important;
 }
 .reda:hover {
-  background-color: #e20c0c;
-  border-color: #e20c0c;
-  color: white;
+  background-color: #e20c0c !important;
+  border-color: #e20c0c !important;
+  color: white !important;
 }
 /* End Pricing  */
 /* Start Faqs  */
